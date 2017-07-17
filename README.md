@@ -1,6 +1,4 @@
-# Arduino-Lightning-Detector
-Detect Lightnings with Arduino
+# Lightning Detector
+Detect Lightning Strikes with Arduino
 
-
-Buy me a beer using Bitcoin
-## [163anEKNWhuRuv1srtPcvzEw7iLPQnz1qr](bitcoin:163anEKNWhuRuv1srtPcvzEw7iLPQnz1qr)
+Based on https://github.com/klauscam/Arduino-Lightning-Detector and https://github.com/Sam-WoT/Lightning-Detector
